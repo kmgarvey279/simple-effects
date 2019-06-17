@@ -10,7 +10,7 @@ _A simple HTML page that showcases simple JavaScript and jQuery functionality 03
 - _Open the file in your web browser of choice._
 
 ### Specs
-_-Click on the images and text to either show or hide different elements of the page.
+_-Click on the images and text to either show or hide different elements of the page._
 
 
 
@@ -23,7 +23,10 @@ _Please contact me at kmgarvey279@gmail.com if you have any questions or comment
 
 ### Technologies Used
 
-_- HTML
+_- HTML_
+_-JavaScript_
+_-jQuery_
+_-CSS_
 
 ### License
 
